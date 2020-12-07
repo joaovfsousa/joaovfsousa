@@ -11,5 +11,5 @@ This github keeps my repositories of courses, exercises and personal projects.
 
 Find me around the web 🌎:
 - <a href="https://www.linkedin.com/in/joaovfsousa/">LinkedIn</a> 💼
-- <a href="https://github.com/joaovfsousa">GitHub</a> 📚
+- <a href="https://gitlab.com/joaovfsousa">GitLab</a> 📚
 - <a href="mailto:joaovfsousa@gmail.com?subject=[GitHub]" target="_blank">Email</a> ✉️
