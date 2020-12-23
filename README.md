@@ -1,8 +1,6 @@
 <h2>Hi there 👋</h2>
 Back-end developer at <a href="http://obers.com.br/">Obers </a><br>
-Information Systems undergraduate student at <a href="https://www.unipam.edu.br/">UNIPAM </a>
-
-
+Information Systems undergraduate student at <a href="https://www.unipam.edu.br/">UNIPAM </a><br>
 
 This github keeps my repositories of courses, exercises and personal projects.
 - 👨‍💻 Code: JavaScript, Python, SQL 
