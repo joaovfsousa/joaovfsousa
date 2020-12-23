@@ -1,4 +1,5 @@
 <h2>Hi there 👋</h2>
+<p><em>Back-end developer at <a href="http://obers.com.br/">Obers </a></em></p>
 <p><em>Information Systems undergraduate student at <a href="https://www.unipam.edu.br/">UNIPAM </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
