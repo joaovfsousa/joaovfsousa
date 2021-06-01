@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-FullStack developer at <a href="https://www.grupoa.com.br/">+A Educação </a><br>
+Full-stack developer at <a href="https://www.grupoa.com.br/">+A Educação </a><br>
 Information Systems undergraduate student at <a href="https://www.unipam.edu.br/">UNIPAM </a><br>
 
 This github keeps my repositories of courses, exercises and personal projects.
