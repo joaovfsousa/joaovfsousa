@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-Software engineer currently working at <a href="https://hatchworks.com/">Hatchworks</a>.<br><br>
+Senior Software Engineer currently working at <a href="https://hatchworks.com/">Hatchworks</a>.<br><br>
 
 This github keeps my repositories of courses, exercises and personal projects. Studying all about Node.JS + Typescript and System Architecture.<br>
 
