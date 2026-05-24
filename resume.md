@@ -1,6 +1,7 @@
 # João Vitor Sousa
+
 **Senior Software Engineer**  
-Node.js • TypeScript • React • Golang • Python • AWS Certified
+Node.js • TypeScript • React • VueJS • Golang • Python • AWS Certified
 
 **Location:** Patos de Minas – MG, Brazil <br/>
 **Email:** joaovfsousa@gmail.com <br/>
@@ -10,17 +11,19 @@ Node.js • TypeScript • React • Golang • Python • AWS Certified
 ---
 
 ## Profile
-Senior Software Engineer with deep experience in Node.js, TypeScript, React, Golang, and Python. 
+
+Senior Software Engineer with deep experience in Node.js, TypeScript, React, Golang, and Python.
 AWS Certified Solutions Architect with a strong focus on scalable systems, distributed architectures,
 and high-quality software design.
 
 ---
 
 ## Skills
-- **Languages & Frameworks:** Node.js, TypeScript, Golang, React, Vue, Python 
-- **Cloud & DevOps:** AWS, Google Cloud, Serverless, Lambda, SQS, Docker  
-- **Databases:** PostgreSQL, MySQL, OracleSQL, MongoDB, DynamoDB 
-- **Other:** ElasticSearch, Git  
+
+- **Languages & Frameworks:** Node.js, TypeScript, Golang, React, Vue, Python
+- **Cloud & DevOps:** AWS, Google Cloud, Serverless, Lambda, SQS, Docker
+- **Databases:** PostgreSQL, MySQL, OracleSQL, MongoDB, DynamoDB
+- **Other:** ElasticSearch, Git
 - **Languages:** Portuguese (native), English (fluent)
 
 ---
@@ -28,6 +31,7 @@ and high-quality software design.
 ## Work Experience
 
 ### Hatchworks
+
 **Senior Software Engineer** (05/2023 – Present)  
 **Fullstack Software Engineer** (06/2022 – 05/2023)  
 **Tech:** Node.js (TypeScript), NestJS, React, PostgreSQL, ElasticSearch, SQS, Serverless, AWS Batch
@@ -43,6 +47,7 @@ and high-quality software design.
 ---
 
 ### +A Educação
+
 **Fullstack Engineer** (05/2021 – 06/2022)  
 **Tech:** Node.js + TypeScript (Adonis, Express), VueJS, PostgreSQL, Serverless, AWS Lambda + SQS
 
@@ -54,6 +59,7 @@ and high-quality software design.
 ---
 
 ### Obers
+
 **Full-Stack Developer** (12/2020 – 05/2021)  
 **Tech:** React Native (TypeScript), Python (Flask), OracleSQL, PostgreSQL
 
@@ -64,16 +70,20 @@ and high-quality software design.
 ---
 
 ## Education
+
 ### UNIPAM
+
 **Bachelor’s in Information Systems — Ongoing**
 
 ---
 
 ## Certifications
+
 - **AWS Certified Solutions Architect** (Valid until June 10, 2027)
 
 ---
 
 ## Awards
+
 - 6x medal winner at the Brazilian Mathematics Olympiad, including Gold Medals in 2014 and 2015
 - Best Software Project — Unipam Expo Innovation 2019
